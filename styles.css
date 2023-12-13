@@ -1,0 +1,164 @@
+body{
+    background-color: #011526;
+}
+h1 {
+    font-family:'Rubik bubbles'; 
+    color: #BEBFBD; 
+    font-size: 80px;
+}
+
+.section-one{
+    border: 1px solid #2F6C73;
+    background-color: #468C8C;
+}
+.container-one{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1440px;
+    height: 400px;
+    padding: 4px;
+}
+.caption-one{
+    font-family: 'Brevia';
+    color:#2F6C73;
+    font-size: 40px;
+    text-align: center;
+}
+.banner{
+    width: 1440px;
+    height: 400px; 
+}
+
+.section-two{
+    border: 1px solid #2F6C73;
+    background-color: #468C8C;
+}
+.container-two{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1440px;
+    height: 100px;
+    padding: 4px;
+}
+
+.caption{
+    font: 'Brevia';
+    color: #2F6C73;
+    font-size: 50px;
+    padding-left: 250px;
+
+}
+
+.caption-push{
+    font: 'Brevia';
+    color: #468C8C;
+    font-size: 50px;
+    margin-left: auto;
+    padding-right: 250px;
+}
+.description{
+    color:#2F6C73;
+    font-size: 30px;
+    font: 'Brevia';
+
+}
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+    padding: 4px;
+}
+.image-two{
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 1000px;
+    padding: 4px;
+}
+.container-typo-one{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap:  wrap;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.push{
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+    padding: 4px;
+    margin-left: auto;
+}
+
+.push-two{
+    font: 'Brevia';
+    color: #468C8C;
+    font-size: 35px;
+    margin-left: auto;
+    padding-top: px;
+}
+.push-three{
+    font: 'Brevia';
+    color: #468C8C;
+    font-size: 28.3px;
+    margin-left: auto;
+    padding-top: px;
+}
+
+.description{
+    font: 'Brevia';
+    color: #468C8C;
+    font-size: 35px;
+}
+
+ul{
+    list-style-type: none;
+}
+.container-navigation{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.container-navigation-two{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-left: 30px
+}
+
+.button{
+    font: 'Brevia';
+    padding: 10px;
+    margin: 10px, 10px; 
+    border: 1px,#011526;
+    font-size: 30px;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #2F6C73;
+}
+
+.type-container{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #013440;
+}
+.type-container-two{
+    display: flex;
+    flex-direction: row;
+    background-color: #2F6C73;
+}
+
+.title{
+    font: 'Brevia';
+    color: #468C8C;
+    font-size: 35px;
+
+}
